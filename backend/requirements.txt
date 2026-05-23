@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+supabase
+pydantic
+selenium
+beautifulsoup4
+vaderSentiment
+transformers
+torch
+pandas
+numpy
+nltk
+python-dotenv
+httpx
